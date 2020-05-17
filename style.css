@@ -1,0 +1,81 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+/* Ketik code Anda dibawah */
+.header{
+  background-color:#26d0c9;
+  color:#fff;
+  height:90px;
+}
+.header-logo{
+  float:left;
+  font-size:36px;
+  padding:20px 40px;
+}
+.header-list{
+  float:left;
+}
+ 
+ .header-list li{
+   float:left;
+   padding: 33px 20px;
+ } 
+  
+.main{
+  margin-right:150px;
+  margin-left: 150px;
+  padding-top:20px;
+}
+
+.hasil{
+  background-color: #82e9de;
+  color: #37474f;
+  height: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-size: 20px;
+  }
+
+.form{
+    width: 150px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px; 
+    border-color: #1976d2;
+    border-radius: 5px;
+  }
+
+.tombol{
+  width: 70px;
+  height: 30px;
+  background-color: #0277bd;
+  border: none;
+  border-radius: 3px;
+  color:#fff;
+  margin-bottom: 10px;
+}
+.prediksi{
+  margin: 10px;
+  border: 1px;
+  background: #e0f7fa;
+  padding: 30px;
+  border-radius: 10px;
+}
+  
+  
+  
